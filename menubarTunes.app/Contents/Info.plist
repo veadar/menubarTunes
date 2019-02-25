@@ -75,9 +75,9 @@
 	<key>WindowState</key>
 	<dict>
 		<key>bundleDividerCollapsed</key>
-		<false/>
+		<true/>
 		<key>bundlePositionOfDivider</key>
-		<real>751</real>
+		<real>0.0</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
@@ -85,11 +85,27 @@
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
-		<real>1198</real>
+		<real>1188</real>
 		<key>savedFrame</key>
-		<string>1129 33 1050 1384 0 0 2560 1417 </string>
+		<string>1091 43 1303 1374 0 0 2560 1417 </string>
 		<key>selectedTab</key>
 		<string>log</string>
 	</dict>
+	<key>___No_NSServices____</key>
+	<array>
+		<dict>
+			<key>Dummy</key>
+			<array>
+				<string>NSStringPboardType</string>
+			</array>
+			<key>NSMenuItem</key>
+			<dict>
+				<key>default</key>
+				<string>menubarTunes</string>
+			</dict>
+			<key>NSMessage</key>
+			<string>doService</string>
+		</dict>
+	</array>
 </dict>
 </plist>
