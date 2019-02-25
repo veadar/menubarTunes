@@ -20,23 +20,23 @@
 		</dict>
 	</array>
 	<key>CFBundleExecutable</key>
-	<string>MenuBarAppleScript</string>
+	<string>menubarTunes</string>
 	<key>CFBundleIconFile</key>
 	<string>icon.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.yourcompany.MenuBarAppleScript.MenuBarAppleScript</string>
+	<string>com.veadar.menubarTunes</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>MenuBarAppleScript</string>
+	<string>menubarTunes</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.4.5</string>
+	<string>1.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.4.5</string>
+	<string>1.1</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.6</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
@@ -74,18 +74,22 @@
 	</array>
 	<key>WindowState</key>
 	<dict>
+		<key>bundleDividerCollapsed</key>
+		<false/>
+		<key>bundlePositionOfDivider</key>
+		<real>751</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
-		<integer>-1</integer>
+		<integer>2</integer>
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
-		<real>494</real>
+		<real>1198</real>
 		<key>savedFrame</key>
-		<string>143 174 696 680 0 0 1440 878 </string>
-		<key>selectedTabView</key>
-		<string>event log</string>
+		<string>540 33 1050 1384 0 0 2560 1417 </string>
+		<key>selectedTab</key>
+		<string>log</string>
 	</dict>
 </dict>
 </plist>
