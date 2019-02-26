@@ -1,7 +1,7 @@
 {
-  "App Name": {
+  "menubarTunes": {
     "version": "1.1",
-    "url": "",
-    "comment": "・"
+    "url": "https://github.com/veadar/menubarTunes/releases",
+    "comment": "・bug fix"
   }
 }
