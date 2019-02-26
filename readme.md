@@ -8,7 +8,7 @@ That's it.
 
 ## Screenshot
 
-![](https://github.com/veadar/menubartunes/raw/master/menubartunes.png)
+![](https://github.com/veadar/menubartunes/raw/master/menubartunes.jpg)
 
 ##Download
 
@@ -16,7 +16,6 @@ Click Here → [Download](https://github.com/veadar/menubartunes/releases)
 
 ##Special Thanks & Used Codes
 
-- [ExtractContent](https://github.com/mono0x/extractcontent)
-- [raw.githack.com
-FAQ Source](https://raw.githack.com)
+- [iconscout](https://iconscout.com/icon/itunes-25)
+- [raw.githack.com](https://raw.githack.com)
 - <a href="http://memogakisouko.appspot.com/MenuBarAppleScript.html">MenuBarAppleScript</a>
