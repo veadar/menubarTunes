@@ -10,11 +10,11 @@ That's it.
 
 ![](https://github.com/veadar/menubartunes/raw/master/menubartunes.jpg)
 
-##Download
+## Download
 
 Click Here → [Download](https://github.com/veadar/menubartunes/releases)
 
-##Special Thanks & Used Codes
+## Special Thanks & Used Codes
 
 - [iconscout](https://iconscout.com/icon/itunes-25)
 - [raw.githack.com](https://raw.githack.com)
